@@ -1,15 +1,15 @@
-# patient-appointment-in-HMSHospital Management System – Patient Appointment
+## Version 2.0 – Advanced Patient Appointment System
 
-Version 1.0
+The system provides an online appointment facility for patients and hospital staff.
 
-The system manages basic patient appointments in a hospital. Patients can request appointments with doctors, and hospital staff can maintain appointment details.
-
-Features
-
-- Patient registration
-- Doctor details
-- Appointment booking
-- Appointment date and time
+### Additional Features
+- Online appointment booking
+- Search doctors by department
+- Check doctor availability
+- Select available date and time
 - Appointment confirmation
 - Appointment cancellation
-- Basic appointment records
+- Appointment rescheduling
+- Patient appointment history
+- Doctor appointment schedule
+- Basic appointment reports
